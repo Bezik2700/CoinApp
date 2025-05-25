@@ -56,7 +56,7 @@ fun ShopActivity(navController: NavController,
                     price = R.string.firstPrice,
                     img = R.drawable.ic_launcher_background,
                     onClick = {purchaseHelper.makePurchase()})
-                Spacer(modifier = Modifier.padding(12.dp))
+                Spacer(modifier = Modifier.padding(8.dp))
                 ShoppingCard(
                     description = R.string.secondDescription,
                     price = R.string.secondPrice,
