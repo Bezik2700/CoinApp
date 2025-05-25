@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Coin App</string>
+
+    <string name="firstPrice">1.0$</string>
+    <string name="secondPrice">2.0$</string>
+    <string name="thirdPrice">3.0$</string>
+    <string name="fourthPrice">4.0$</string>
+    <string name="fifthPrice">5.0$</string>
+    <string name="sixthPrice">6.0$</string>
+
+
+    <string name="firstDescription">Description for first price</string>
+    <string name="secondDescription">Description for second price</string>
+    <string name="thirdDescription">Description for third price</string>
+    <string name="fourthDescription">Description for fourth price</string>
+    <string name="fifthDescription">Description for fifth price</string>
+    <string name="sixthDescription">Description for sixth price</string>
+
+</resources>
